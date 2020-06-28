@@ -1,0 +1,16 @@
+{
+    "name": "jackson/wordpress-podcast-player",
+    "type": "wordpress-plugin",
+    "license": "GNU General Public License v3.0",
+    "authors": [
+        {
+            "name": "Peter Jackson Link III",
+            "email": "pjacksonlink@gmail.com"
+        }
+    ],
+    "require": {},
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5"
+    },
+    "description": "A wordpress plugin for playing podcasts."
+}
