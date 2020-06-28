@@ -39,6 +39,6 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         # Artifact name
-        name: Plugin zip
+        name: wordpress_podcast_player
         # A file, directory or wildcard pattern that describes what to upload
         path: .
