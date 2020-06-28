@@ -42,7 +42,7 @@ function wordpressPodcastPlayerShortcode($atts)
     return "
     <audio controls>
     <source src='$url' />
-    Sorry, your browser is incompatible.
+    Sorry, your browser is incompatible. Here is the <a href='$url'>direct link.</a>
     </audio>
     ";
 }
