@@ -12,7 +12,7 @@
  */
 
 // Fail if run directly
-defined('ABSPATH') or die('No script kiddies please!');
+defined('ABSPATH') or die("No script kiddies please!\n");
 
 /**
  * Wordpress podcast player shortcode.
