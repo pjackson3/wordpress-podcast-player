@@ -1,6 +1,10 @@
 <?php
 /**
  * Wordpress podcast player
+ * 
+ * Plugin Name: Wordpress Podcast Player
+ * Description: A simple wordpress podcast player
+ * Author: Peter Jackson LInk <pjacksonlink@gmail.com>
  *
  * PHP version 7.4.3
  * 
