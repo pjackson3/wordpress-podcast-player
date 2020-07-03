@@ -41,7 +41,7 @@ function wordpressPodcastPlayerShortcode($atts)
     // Return a HTML5 audio element.
     return "
     <audio controls>
-    <source src='$url' />
+    <source src='$url' type='audio/mp3' />
     Sorry, your browser is incompatible. Here is the <a href='$url'>direct link.</a>
     </audio>
     ";
